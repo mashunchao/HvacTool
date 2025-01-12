@@ -10,7 +10,7 @@
 
 ## 安装方法
 
-1. 下载本目录中的 `HvacTool.zip` 压缩包。  
+1. 点开右边 Releases 1，下载 `HvacTool.zip` 压缩包。  
 2. 解压缩文件，将文件夹放置在 **ANSYS 安装路径下的 Addins 目录中**，路径如下：
 
    ```
